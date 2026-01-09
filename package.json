@@ -1,0 +1,25 @@
+{
+  "name": "schoolplaner",
+  "version": "1.0.0",
+  "description": "Have a schoolplaner with calendar export for homework and tests ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nino678190/schoolPlaner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0-only",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Nino678190/schoolPlaner/issues"
+  },
+  "homepage": "https://github.com/Nino678190/schoolPlaner#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "ical-generator": "^10.0.0"
+  }
+}
